@@ -1,5 +1,5 @@
 variable "something" {
   description = "Any string value"
   type        = string
-  default     = ""
+  default     = "some-string-value"
 }
